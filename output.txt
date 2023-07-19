@@ -1,0 +1,14 @@
+125. Logistics Analyst, None
+126. Procurement Coordinator, None
+127. Inventory Analyst, None
+128. Operations Supervisor, None
+129. Supply Chain Coordinator, None
+130. Distribution Coordinator, None
+131. Logistics Specialist, None
+132. Warehouse Associate, None
+133. Inventory Control Coordinator, None
+134. Supply Chain Planner, None
+135. Operations Director, None
+136. Demand Analyst, None
+137. Purchasing Manager, None
+138. Logistics Planner, None
